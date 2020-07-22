@@ -3,8 +3,8 @@ import math
 import socket
 import datetime
 
-source = #
-destination = #
+source = #\P2P_File_Sharing_App
+destination = #\P2P_File_Sharing_App\files
 
 content_name = input("Enter the name of the file you want to serve: ")
 filename = content_name+'.png'

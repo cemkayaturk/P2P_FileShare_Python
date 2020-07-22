@@ -25,7 +25,7 @@ chunk_file.close()
 
 print("Files are ready to serve!")
 
-SERVER_HOST = "25.21.128.101"
+SERVER_HOST = #Enter IP Address
 SERVER_PORT = 5001
 BUFFER_SIZE = 4096
 

@@ -4,8 +4,8 @@ import shutil
 import json
 import datetime
 
-source = #
-destination = #
+source = #\P2P_File_Sharing_App\
+destination = #\P2P_File_Sharing_App\files
 
 SERVER_PORT = 5001
 BUFFER_SIZE = 4096

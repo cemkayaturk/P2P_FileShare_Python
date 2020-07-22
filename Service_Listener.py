@@ -3,7 +3,7 @@ import json
 
 listener_socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 IP = socket.gethostbyname(socket.gethostname())
-listener_socket.bind(("25.21.128.101",5000))
+listener_socket.bind((,5000))  # Enter IP Address
 print("Listening for broadcasts...")
 while True:
     data, addr = listener_socket.recvfrom(4096)

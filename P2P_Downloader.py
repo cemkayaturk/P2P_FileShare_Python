@@ -4,8 +4,8 @@ import shutil
 import json
 import datetime
 
-source = r'C:\Users\cemka\PycharmProjects\P2P_File_Sharing_App'
-destination = r'C:\Users\cemka\PycharmProjects\P2P_File_Sharing_App\files'
+source = #
+destination = #
 
 SERVER_PORT = 5001
 BUFFER_SIZE = 4096

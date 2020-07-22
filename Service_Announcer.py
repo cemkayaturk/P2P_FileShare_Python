@@ -10,7 +10,7 @@ username = input("Enter Your Username: ")
 
 def Message():
     message = {"username": username, "files":()}
-    path = r"C:\Users\cemka\PycharmProjects\P2P_File_Sharing_App\files"
+    path = #\P2P_File_Sharing_App\files"
     dirs = os.listdir(path)
     message.update({"files":dirs})
     return message

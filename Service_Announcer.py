@@ -1,10 +1,9 @@
 import socket
-import time
-import json
+import timeimport json
 import os
 
 
-UDP_IP_ADDRESS = "25.255.255.255"
+UDP_IP_ADDRESS = # for example 192.255.255.255
 UDP_PORT_NO = 5000
 username = input("Enter Your Username: ")
 
